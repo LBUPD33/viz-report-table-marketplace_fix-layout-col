@@ -25,6 +25,10 @@
     z-index: 2;
 }
 
+.reportTable colgroup:first-child col {
+    width: 250px !important;
+}
+
 .tooltipTable {
   font-family: Open Sans,Helvetica,Arial,sans-serif;
   border: 0px;
